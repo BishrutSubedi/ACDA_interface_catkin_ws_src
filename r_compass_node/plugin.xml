@@ -1,0 +1,15 @@
+<library path="lib/libr_compass_node">
+  <class name="remote_compass/MyPlugin" type="remote_compass::MyPlugin" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      Virtual remote_compass for ROS topics.
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+        <statustip>Plugins related to visualization.</statustip>
+      </group>
+      <label>remote_compass</label>
+      <statustip>Virtual gauges for ROS topics.</statustip>
+    </qtgui>
+  </class>
+</library>

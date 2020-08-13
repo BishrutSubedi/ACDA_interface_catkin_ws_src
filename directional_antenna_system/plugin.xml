@@ -1,0 +1,15 @@
+<library path="src">
+  <class name="My Plugin" type="directional_antenna_system.my_module.MyPlugin" base_class_type="rqt_gui_py::Plugin">
+ <description>
+      Virtual maps for ROS topics.
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+        <statustip>Plugins related to visualization.</statustip>
+      </group>
+      <label>directional_antenna_system</label>
+      <statustip>Virtual map for ROS topics.</statustip>
+    </qtgui>
+  </class>
+</library>

@@ -1,0 +1,32 @@
+1533169112863	geckodriver	INFO	geckodriver 0.21.0
+1533169112866	geckodriver	INFO	Listening on 127.0.0.1:44799
+1533169113876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JJ1KfuKTByn9"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/dnc2/.Xauthority which is owned by dnc2.)
+1533169154088	geckodriver	INFO	geckodriver 0.21.0
+1533169154092	geckodriver	INFO	Listening on 127.0.0.1:40737
+1533169155099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OQwMaMsoodke"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/dnc2/.Xauthority which is owned by dnc2.)
+1533169164283	geckodriver	INFO	geckodriver 0.21.0
+1533169164289	geckodriver	INFO	Listening on 127.0.0.1:40681
+1533169165294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8amhN2o3NkAV"
+1533169166919	Marionette	INFO	Listening on port 45113
+1533169167038	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10492, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533169187476	geckodriver	INFO	geckodriver 0.21.0
+1533169187484	geckodriver	INFO	Listening on 127.0.0.1:42311
+1533169188492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dTh9u0N5Iuud"
+1533169190069	Marionette	INFO	Listening on port 38347
+1533169190103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.33.111/js/jquery_mini.js, line 19: unreachable code after return statement
+JavaScript warning: http://192.168.33.111/js/jquery_mini.js, line 19: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533169259993	geckodriver	INFO	geckodriver 0.21.0
+1533169259996	geckodriver	INFO	Listening on 127.0.0.1:58087
+1533169261010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8VQG142LZU55"
+1533169262598	Marionette	INFO	Listening on port 37667
+1533169262628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.33.111/js/jquery_mini.js, line 19: unreachable code after return statement
+JavaScript warning: http://192.168.33.111/js/jquery_mini.js, line 19: unreachable code after return statement
+[Parent 11228, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

@@ -1,0 +1,3 @@
+Frequency:2.412 GHz (Channel 1)Quality=27/70  Signal level=-83 dBm
+Frequency:2.437 GHz (Channel 6)Quality=52/70  Signal level=-58 dBm
+Frequency:2.462 GHz (Channel 11)Quality=27/70  Signal level=-83 dBm
